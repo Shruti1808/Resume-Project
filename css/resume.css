@@ -1,0 +1,25 @@
+.edu {
+font-weight: bold;
+font-family: arial;
+}
+
+.skills {
+  color:orange;
+}
+
+.exp {
+  font-size:18px;
+}
+
+ul.bullet {
+  list-style-type: square;;
+}
+.education{
+  font-style:italic;
+  text-decoration:underline;
+}
+.wifey{
+  font-style:italic;
+  text-decoration:underline;
+
+}
